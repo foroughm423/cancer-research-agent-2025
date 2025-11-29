@@ -1,0 +1,41 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python cache & build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Environment files
+.env
+*.env
+
+# Database
+*.db
+*.sqlite3
+memory/*.db
+
+# Logs
+logs/
+*.log
+
+# IDE & editor junk
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+.desktop.ini
+
+# Streamlit
+.streamlit/secrets.toml

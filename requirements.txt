@@ -1,0 +1,27 @@
+﻿# Core dependencies
+requests==2.32.3
+python-dotenv==1.0.1
+
+# Literature search
+pymed==0.8.9
+beautifulsoup4==4.12.3
+lxml==5.3.0
+
+# Data analysis and statistics
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.2
+seaborn==0.13.2
+lifelines==0.27.8
+scipy==1.11.4             
+pillow==10.4.0            
+packaging==24.1
+
+# Database
+sqlalchemy==2.0.35
+
+# Web interface
+streamlit==1.51.0
+
+# Utilities
+python-dateutil==2.9.0
